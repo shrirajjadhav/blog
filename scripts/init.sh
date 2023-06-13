@@ -10,8 +10,8 @@ else
     echo "\n jekyll setup completed \nRun with run.sh"
 fi
 
-cp _config _samples/
-cp _samples/custom_config.yml _config
+cp _config.yml _samples/
+cp _samples/custom_config.yml _config.yml
 cp about.* _samples/page.md
 cp _posts/*.* _samples/post.md
 

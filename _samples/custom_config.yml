@@ -21,12 +21,11 @@
 title: shriraj.dev
 email: hi@shriraj.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my goto blog for writing my notes from tutorials,
-  log my errors and projects.
-baseurl: "/blogger" # the subpath of your site, e.g. /blog
-url: "https://shriraj2k1o.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: shriraj.dev
-github_username:  shriraj2k1o
+  Collection of my ideas, tutorials, notes and how-tos; Everything in one place.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://shrirajjadhav.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: shrirajjadhav_
+github_username:  shrirajjadhav
 
 # Build settings
 theme: minima
